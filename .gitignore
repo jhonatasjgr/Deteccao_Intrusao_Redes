@@ -1,0 +1,10 @@
+# Dataset local (nao versionar)
+data/CICIDS2017/
+
+# Logs/resultados temporarios de treino
+results/catboost_info/
+
+# Ambientes e cache
+.venv/
+__pycache__/
+*.pyc
